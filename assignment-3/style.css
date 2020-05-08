@@ -1,0 +1,232 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.button {
+    font-size: 10px;
+    border: 1px solid #427900;
+    color: #427900;
+    background-color: #F5F5F5;
+    text-decoration: none;
+}
+.nav-item .dropbtn:hover {
+    color:white !important;
+}
+.button:hover {
+    text-decoration: none;
+    color: #427900;
+}
+
+header-buttons a {
+    display: inline-block;
+}
+img {
+    max-width: 100%;
+}
+.img-fluid {
+    max-height: 52px;
+}
+
+.navbar-nav > li > a {
+    border-radius: 30px;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+.social-icons i {
+    color: white;
+    
+    }
+    .to-top {
+        position: fixed;
+        bottom: 10px;
+        right: 40px;
+        color: white;
+        font-size: 22px;
+        padding: 4px 08px 8px;
+        background-color:rgba(0,0,0,0.2);
+        display: inline-block;
+    }
+    
+    .social-icons li {
+    display: inline-block;
+    margin-right: 20px;
+    }
+    
+    .social-icons img {
+        height: 20px;
+    }
+    p {
+        color: white;
+        margin-top: 10px;
+    
+    
+    }
+.navbar-nav > li > a {
+    color: #333333;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.dropbtn {
+
+    color: black;
+    padding: 8px;
+    font-size: 13px;
+    border: none;
+    border-radius:30px;
+    transition: all 0.3s ease-in-out;
+    background-color: transparent;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    transition: all 0.3s ease-in-out;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    transition: all 0.3s ease-in-out;
+}
+.counting h6 span {
+    color: #00FF00;
+}
+.counting h6 {
+    letter-spacing: -1px;
+}
+.counting h2 {
+    font-size: 3rem;
+}
+.dropdown-content a:hover {background-color: #316DC3;padding-left:25px;color:white;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #316DC3;
+color:white;}
+
+.intro-1 {
+    color: #316DC3;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.intro-2 {
+    color: #427900;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.intro-p {
+    color: #808080;
+    }
+.bg-blue-analysis {
+    background-color:#2655E8;
+    text-align: center;
+    color:white;
+}
+
+.color-what {
+    background: #F7F8FA;
+}
+.what-box {
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    background-color: white;
+    
+}
+.what-box img {
+    width: 70px;
+}
+.what-box h4 {
+    text-transform: uppercase;
+    color: #316DC3;
+}
+.icon-box  {
+    background-color: #F7F8FA;
+    color: #316DC3;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.icon-box h5 {
+    display: inline-block;
+    padding-left: 20px;
+}
+.black-line {
+    width:80px;
+    height:1px;
+    position: relative;
+    bottom: -22px;
+    background-color: black;
+    display: inline-block;
+
+}
+.green-line {
+    width:80px;
+    height:2px;
+    background-color: green;
+    display: inline-block;
+}
+.useful-line {
+    width:50px;
+    height:2px;
+    background-color: green;
+    display: inline-block;
+}
+.mission h3 {
+    color: #316DC3;
+
+}
+.mission p {
+    color: #808080;
+}
+.image-grid {
+    height:20%;
+}
+
+footer {
+    background-color: #25272E;
+    color:#B5B5B5
+}
+footer p {
+    color:#B5B5B5;
+    font-family: opensans;
+} 
+footer h5 {
+    color:white;
+}
+.footer-icons li {
+    display: inline-block;
+    margin-right: 10px;
+    color:white;
+    background:#316DD9;
+    padding: 4px 11px;
+    border-radius:50%
+}
+.footer-icons ul {
+    padding-inline-start: 0;
+}
+.footer-icons a {
+    color: white;
+}
+.list-inline i {
+    color: #3A660A;
+}
+.footer-bottom {
+background-color: #316DD9;
+}
+.footer-bottom p {
+    color: white;
+}
+.useful-links h5 {
+font-family: merri
+}
